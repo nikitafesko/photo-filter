@@ -1,1 +1,1 @@
-# stage1-tasks
+Photo filter on JavaScript
